@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @TheCommandCraft
-- 👀 I’m interested in python, minecraft plugins, c#, c++ (arduino)
+- 👀 I’m interested in python, minecraft plugins, C++ (arduino) but mostly in C# and Web dev.
 - 🌱 I’m currently learning minecraft plugins and c#
-- 💞️ I’m looking to collaborate on plugins
 - 📫 How to reach me thecommandcraft.studios@gmail.com (but I don't check my mails very often)
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I have started programming in excel back when I was around 6.
